@@ -32,7 +32,7 @@ def cargar_archivos_txt(carpeta='data', archivos=['df_final_demo.txt', 'df_final
 
 # Ejemplo de uso
 # Cargar los archivos archivo1.txt, archivo2.txt, archivo3.txt y archivo4.txt desde la carpeta 'data'
-archivos = ['df_final_demo.txt', 'df_final_experiment_clients.txt', 'df_final_web_data_pt_1.txt', 'adf_final_web_data_pt_2.txt']
+archivos = ['df_final_demo.txt', 'df_final_experiment_clients.txt', 'df_final_web_data_pt_1.txt', 'df_final_web_data_pt_2.txt']
 datos = cargar_archivos_txt(carpeta='data', archivos=archivos, delimiter=',')  # Cambia el delimitador si es necesario
 
     
