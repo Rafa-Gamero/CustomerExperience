@@ -52,9 +52,9 @@ El análisis indica que la nueva interfaz digital de Vanguard es más efectiva e
 
 ## Enlaces
 
-- [Repositorio en GitHub](URL_DE_TU_REPOSITORIO)
-- [Tablero Kanban en Trello](URL_DE_TU_TABLERO_KANBAN)
-- [Diapositivas de la Presentación](URL_DE_TUS_DIAPOSITIVAS)
+- [Repositorio en GitHub](https://github.com/Rafa-Gamero/vanguard-ab-test)
+- [Tablero Kanban en Trello](https://trello.com/b/DZwyxiRR/proyecto-2)
+- [Diapositivas de la Presentación](https://docs.google.com/presentation/d/14_VSmUI-jnBwQWAVEkyppwFnhZsuXOs0I3DVEJgN3Fs/edit#slide=id.g307e4d75c01_0_28)
 - [Dashboard en Power BI](URL_DEL_DASHBOARD_POWER_BI)
 
 ## Contacto
