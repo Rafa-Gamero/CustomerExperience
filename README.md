@@ -44,7 +44,7 @@ El experimento se llevó a cabo del 15 de marzo de 2017 al 20 de junio de 2017. 
 
 ## Visualizaciones
 
-Las visualizaciones interactivas creadas en Power BI ofrecen una visión clara del impacto de la nueva interfaz. Puedes explorar el dashboard [aquí](URL_DEL_DASHBOARD_POWER_BI).
+Las visualizaciones interactivas creadas en Tableu ofrecen una visión clara del impacto de la nueva interfaz. Puedes explorar el dashboard [aquí](https://public.tableau.com/app/profile/rafael.gamero.arrabal/viz/DasboardABVanguar/Dashboard1?publish=yes).
 
 ## Conclusión
 
@@ -55,7 +55,7 @@ El análisis indica que la nueva interfaz digital de Vanguard es más efectiva e
 - [Repositorio en GitHub](https://github.com/Rafa-Gamero/vanguard-ab-test)
 - [Tablero Kanban en Trello](https://trello.com/b/DZwyxiRR/proyecto-2)
 - [Diapositivas de la Presentación](https://docs.google.com/presentation/d/14_VSmUI-jnBwQWAVEkyppwFnhZsuXOs0I3DVEJgN3Fs/edit#slide=id.g307e4d75c01_0_28)
-- [Dashboard en Power BI](URL_DEL_DASHBOARD_POWER_BI)
+- [Dashboard en Tableu](https://public.tableau.com/app/profile/rafael.gamero.arrabal/viz/DasboardABVanguar/Dashboard1?publish=yes)
 
 ## Contacto
 
