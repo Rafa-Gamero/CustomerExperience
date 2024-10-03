@@ -1,0 +1,11 @@
+process_step,Variation,total_time_minutes
+confirm,Control,35994
+confirm,Test,48154
+start,Control,47588
+start,Test,61503
+step_1,Control,21260
+step_1,Test,24723
+step_2,Control,16868
+step_2,Test,25178
+step_3,Control,35339
+step_3,Test,41906

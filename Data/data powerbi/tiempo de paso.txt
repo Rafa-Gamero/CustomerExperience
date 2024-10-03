@@ -1,0 +1,11 @@
+process_step,Variation,time_diff
+confirm,Control,0 days 18:21:17.307379630
+confirm,Test,1 days 05:00:32.783103231
+start,Control,4 days 05:57:44.544592030
+start,Test,3 days 02:55:49.873986735
+step_1,Control,0 days 00:30:38.781647281
+step_1,Test,0 days 00:22:19.804570955
+step_2,Control,0 days 00:00:39.342259834
+step_2,Test,0 days 00:01:51.212471355
+step_3,Control,0 days 00:09:35.220494575
+step_3,Test,0 days 00:12:18.920516488
