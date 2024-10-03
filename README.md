@@ -60,4 +60,4 @@ El análisis indica que la nueva interfaz digital de Vanguard es más efectiva e
 ## Contacto
 
 Para cualquier pregunta o comentario sobre este proyecto, no dudes en contactarnos.
--  [Linkedin]()
+-  [Linkedin](https://www.linkedin.com/in/rafael-gamero-arrabal-619200186/)
